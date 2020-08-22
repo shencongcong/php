@@ -5,7 +5,7 @@ php 学习心得分享
 
     - mvcc
     - 事务隔离级别
-    
+    - 锁
     
 - php
     
@@ -17,6 +17,7 @@ php 学习心得分享
 
     - redis 基本数据结构
     - 布隆过滤器
+    - 位图
     
 
 - 数据结构和算法
@@ -38,12 +39,13 @@ php 学习心得分享
 
     - redis队列
     - nsq
-    -kafka
+    - kafka
     
     
 - 电子书
 
     - mysql
+        - MYSQL技术内幕innodb存储引擎第2版 [百度云下载链接](https://pan.baidu.com/s/1ZBA2L0ixwMZ_48zy9J5IOA)  密码:eucc
     - redis
     - 网路
     
